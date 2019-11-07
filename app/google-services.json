@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974283379672",
+    "firebase_url": "https://udacitylessononeproject.firebaseio.com",
+    "project_id": "udacitylessononeproject",
+    "storage_bucket": "udacitylessononeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974283379672:android:b8448a50fceb85dd34d8ad",
+        "android_client_info": {
+          "package_name": "com.elzoghby.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974283379672-v9hvp58lkibpa1sndr556c4ooe6vq0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elzoghby.friendlychat",
+            "certificate_hash": "ab3a59da203486a10f28a5adbf6845be63405103"
+          }
+        },
+        {
+          "client_id": "974283379672-pvglsv8kb03bk4gjvk8chmj15ug2glqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGKscVSOmv5WEUH3RvvlKugV9owQownY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974283379672-pvglsv8kb03bk4gjvk8chmj15ug2glqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
